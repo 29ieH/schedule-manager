@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;quanlythoigian/src/main/webapp/views/resetpass.jsp&apos; to &apos;forgetpass.jsp&apos;" description="Rename resource &apos;resetpass.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/views/resetpass.jsp" name="forgetpass.jsp" stamp="1701067752742" updateReferences="true"/>
+</session>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\do_an_chuyen_nghanh\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+111943013.index
+4094538172.index
+3983386582.index
+3742879143.index
+1891047970.index
+542294859.index

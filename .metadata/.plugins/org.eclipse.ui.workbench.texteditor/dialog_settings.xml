@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="fa-solid fa-pen-to-square" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="fa-solid fa-pen-to-square"/>
+			<item value="confirmDelete"/>
+			<item value="a-table__submit"/>
+			<item value=".sk"/>
+			<item value=".sukien{"/>
+			<item value=".sukien"/>
+			<item value="sukien"/>
+			<item value="error__edit-mess"/>
+			<item value=".div__error-mess"/>
+			<item value="div__error-mess"/>
+			<item value="#Đăng"/>
+			<item value="Đăng Nhập"/>
+			<item value=".content-sigup__create"/>
+			<item value="forgot__password"/>
+			<item value=".content-login__img-z"/>
+		</list>
+		<list key="replacehistory">
+			<item value="xoa-lich"/>
+			<item value="&lt;c:url value=&quot;/sua-thoi-khoa-bieu&quot;/&gt;"/>
+			<item value="&lt;c:url value=&quot;/sua-thoi-khoa-bieu?&quot;/&gt;"/>
+			<item value="&lt;c:url value = &quot;/views/addtkb.jsp&quot;/&gt;"/>
+			<item value="users"/>
+			<item value="&lt;c:url value = &quot;/views/addtkb.jsp&quot;&gt;"/>
+			<item value="pd-4 textarea-edit reset-margin bg-p w-138px"/>
+			<item value="pd-4 textarea-edit reset-margin bg-p w-138"/>
+			<item value="pd-4 textarea-edit reset-margin bg-p "/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1220" key="DIALOG_X_ORIGIN"/>
+		<item value="336" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
